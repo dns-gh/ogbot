@@ -1,0 +1,2 @@
+# ogbot
+OGame Bot
